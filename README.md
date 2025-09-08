@@ -65,11 +65,12 @@ GET http://localhost:3000/
 # http://localhost:3000/shorturls
 {
   "url": "https://example.com/very-long-page",
-  "validity": 10,
+  "validity": 30,
   "shortcode": "abc123"
 }
 
-![WhatsApp Image 2025-09-08 at 14 29 23_d2ea602e](https://github.com/user-attachments/assets/c09d6452-2762-4fd8-8892-f3da816cc905)
+<img width="1280" height="753" alt="image" src="https://github.com/user-attachments/assets/f3b73cf8-e817-4d59-981c-cd998b29f17a" />
+
 
 ## Geeting UrL back. 
 ## http://localhost:3000/shorturls/abc123
